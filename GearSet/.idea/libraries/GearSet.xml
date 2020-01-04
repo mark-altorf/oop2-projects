@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GearSet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GearSet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

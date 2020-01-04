@@ -1,0 +1,4 @@
+
+|squid:S1210^"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(öìÄÛþÿÿÿÿ8ÝÐè±·-
+`squid:UselessImportCheck"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ÝÐè±·-
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(š¶Ë¸úÿÿÿÿ8ªÅû·-

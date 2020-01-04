@@ -1,0 +1,14 @@
+
+P
+squid:S106â"9Replace this use of System.out or System.err by a logger.(åÑÒ§
+Psquid:UnusedPrivateMethodÐ"*Remove this unused private "getLS" method.(¾ý¦‰
+asquid:UselessImportCheck"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜8ÎÊ„  -
+[squid:UnusedPrivateMethodÈ"5Remove this unused private "showErrorMessage" method.(óýÌø
+U
+squid:S106è"9Replace this use of System.out or System.err by a logger.(¢’–Ýÿÿÿÿÿ
+vsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šœûšüÿÿÿÿ8ÎÊ„  -
+esquid:UselessImportCheck
+"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ýÿÿÿÿ8ÎÊ„  -
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÇäõÃúÿÿÿÿ
+Psquid:UnusedPrivateMethodØ"+Remove this unused private "getHam" method.(É·ÜY

@@ -1,0 +1,4 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íêÇÑùÿÿÿÿ8±²ÎÁŸ-
+©%squid:RedundantThrowsDeclarationCheck5"rRemove the declaration of thrown exception 'java.time.format.DateTimeParseException' which is a runtime exception.(èü¼T8±²ÎÁŸ-

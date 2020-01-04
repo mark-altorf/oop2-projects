@@ -1,0 +1,9 @@
+
+rsquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(»ğï†ùÿÿÿÿ8ÇŠˆĞŸ-
+Gsquid:S00108%")Either remove or fill this block of code.(ôÍÏ8ÇŠˆĞŸ-
+_squid:S21184"AMake the "java.util.List" class "Serializable" or don't write it.(¾æ‘ü8ô¯–ĞŸ-
+psquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ú¢¸¿ûÿÿÿÿ8ÇŠˆĞŸ-
+usquid:S20951"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(£ğóÙûÿÿÿÿ8–şˆĞŸ-
+ssquid:S20952"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(× Îøûÿÿÿÿ8ô¯–ĞŸ-
+lsquid:S20950"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯8ÇŠˆĞŸ-
+osquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ì±Ó8ÇŠˆĞŸ-

@@ -1,0 +1,10 @@
+
+7squid:S1170"!Make this final field static too.(ΒªΨO
+psquid:S00116:"XRename this field "PROJECT_NAMEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψσ—
+‚squid:S00116Q"eRename this field "AANTAL_PROJECTEN_PER_KLANT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Έ“ϋÿÿÿÿ
+vsquid:S00116("YRename this field "BEDRIJFS_NAMEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(π…βρώÿÿÿÿ
+8squid:S1170:"!Make this final field static too.(ψσ—
+=squid:S1170Q"!Make this final field static too.(©Έ“ϋÿÿÿÿ
+msquid:S00116"VRename this field "KLANT_NAMEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΒªΨO
+squid:S1319Z"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(μ‡£‚ϊÿÿÿÿ
+=squid:S1170("!Make this final field static too.(π…βρώÿÿÿÿ

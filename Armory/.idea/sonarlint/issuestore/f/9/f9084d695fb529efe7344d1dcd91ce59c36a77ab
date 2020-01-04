@@ -1,0 +1,13 @@
+
+[squid:UnusedPrivateMethodÇ"5Remove this unused private "showErrorMessage" method.(óýÌø
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÇäõÃúÿÿÿÿ
+Psquid:UnusedPrivateMethodÏ"*Remove this unused private "getLS" method.(¾ý¦‰
+^squid:UselessImportCheck
+"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ýÿÿÿÿ
+P
+squid:S106á"9Replace this use of System.out or System.err by a logger.(åÑÒ§
+U
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(¢’–Ýÿÿÿÿÿ
+Psquid:UnusedPrivateMethod×"+Remove this unused private "getHam" method.(É·ÜY
+Zsquid:UselessImportCheck"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜

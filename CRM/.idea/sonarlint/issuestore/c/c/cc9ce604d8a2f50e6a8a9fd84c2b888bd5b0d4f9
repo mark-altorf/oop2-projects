@@ -1,0 +1,13 @@
+
+lsquid:S20953"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯8¶Çô±·-
+Dsquid:S1170"!Make this final field static too.(Õüóûÿÿÿÿ8¶Çô±·-
+bsquid:S2147("DCombine this catch with the one at line 38, which has the same body.(ï­£Ä8¶Çô±·-
+bsquid:S2147*"DCombine this catch with the one at line 38, which has the same body.(ıàÑÎ8¶Çô±·-
+{squid:S00116"WRename this field "KLANTEN_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õüóûÿÿÿÿ8¶Çô±·-
+Psquid:S11350"2Complete the task associated to this TODO comment.(¥¥é8¶Çô±·-
+rsquid:S2095$"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8¶Çô±·-
+bsquid:S21478"DCombine this catch with the one at line 54, which has the same body.(ï­£Ä8¶Çô±·-
+dsquid:S21185"AMake the "java.util.List" class "Serializable" or don't write it.(®Ö¹„ÿÿÿÿÿ8¶Çô±·-
+ssquid:S20954"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8¶Çô±·-
+psquid:S2095#"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8¶Çô±·-
+Psquid:S1135"2Complete the task associated to this TODO comment.(¥¥é8¶Çô±·-

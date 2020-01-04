@@ -1,0 +1,13 @@
+
+Jsquid:S16025",Remove useless curly braces around statement(Èˆãû8ƒöî– -
+Nsquid:S1135+"2Complete the task associated to this TODO comment.(—Ôí‘ÿÿÿÿÿ
+Nsquid:S1135("2Complete the task associated to this TODO comment.(—Ôí‘ÿÿÿÿÿ
+usquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…×áêıÿÿÿÿ8‘‰å” -
+ssquid:S2095O"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(× Îøûÿÿÿÿ8œ‰“— -
+usquid:S2095N"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(£ğóÙûÿÿÿÿ8œ‰“— -
+U
+squid:S106T"9Replace this use of System.out or System.err by a logger.(èŞıC8œ‰“— -
+qsquid:S2095M"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ˆ’Äåıÿÿÿÿ8œ‰“— -
+‡squid:S1488D"dImmediately return this expression instead of assigning it to the temporary variable "accommFXList".(¹±ä¨şÿÿÿÿ8’ã– -
+psquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èˆãû8ã±ä– -
+dsquid:S2118P"AMake the "java.util.List" class "Serializable" or don't write it.(«ˆ™Ùüÿÿÿÿ8œ‰“— -
